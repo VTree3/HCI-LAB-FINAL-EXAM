@@ -1,0 +1,17 @@
+KEANEHAN(bug?) ADOBE ANIMATE - 2440030456
+
+VIRTUAL CAMERA
+1. button hover animation tidak nyala
+2. video off-center
+3. Video bablas terus sampai closing scene.
+4. Movie clip stop setelah action script this.stop();
+
+BUKAN VIRTUAL CAMERA
+1. preprocessing (strokes & fills --- 28% di adobe animate ketika kita ctrl enter) not responding. Saya kurang tahu alasannya, namun bila diberikan waktu untuk processing, akhirnya akan terbuka di web. (di komputer saya, proses ini memakan 5-10 menit. Ya, saya setiap kali mau cek harus menunggu 5-10 menit. Bisa dilihat di recording saya di menit ke 40.)
+
+Sekian kendala-kendala yang saya lihat dari UAP kali ini. Semoga dapat meringankan beban para pemeriksa. Mohon abaikan semua ini bila di komputer pemerika tidak ada kendala apapun.
+Terima kasih.
+
+Vetri Marvel Budiman,
+
+2440030456
